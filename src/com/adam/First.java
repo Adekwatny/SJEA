@@ -17,7 +17,7 @@ public class First extends HttpServlet
 	{
 		
 		PrintWriter pw = resp.getWriter();
-		pw.println("dziala");
+		pw.println("try now dziala");
 		
 		
 		
